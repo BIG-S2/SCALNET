@@ -1,0 +1,13 @@
+Package: scalnet
+Type: Package
+Title: Scalable network estimation with L0 penalty
+Version: 1.0
+Date: 2016-12-13
+Author: Junghi Kim and Hongtu Zhu
+Maintainer: Junghi Kim <junghikim0@gmail.com>
+Description: Estimates a large precision matrix using L0 penalty
+License: GNU General Public License (>= 3)
+Imports: Rcpp (>= 0.12.7)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 5.0.1
+Built: R 3.2.4; x86_64-apple-darwin13.4.0; 2016-12-15 14:49:44 UTC; unix

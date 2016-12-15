@@ -1,0 +1,10 @@
+AR1.band                A band matrix with AR1 structure
+asdar                   Adaptive support detection and root finding
+                        algorithm
+hub.graph               Hub network with a modular structure
+loss                    Evaluate accuracy using different loss
+                        functions.
+scalnet-package         Scalable network estimation with L0 penalty
+scalnetL0               Scalable network estimation with L0 penalty for
+                        ultra-large Gaussian graphical models.
+sfree.graph             Scale free network with a modular structure
